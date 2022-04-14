@@ -1,0 +1,12 @@
+set xlabel "Number of Vertices (n)" font ",25"
+set ylabel "CPU Time (sec)" font ",25"
+plot 'cpu_input.txt' using 1:2:3 with yerrorlines lt rgb 'black' title 'CNF-SAT', \
+'' using 1:4:5 with yerrorlines dt 2 lt rgb 'green' title 'Approx-1', \
+'' using 1:6:7 with yerrorlines dt 3 lt rgb 'red' title 'Approx-2'
+
+
+set xlabel "Number of Vertices (n)" font ",25"
+set ylabel "Approximaation Ratio" font ",25"
+plot 'ar_input.txt' using 1:2:3 with yerrorlines lt rgb 'black' title 'CNF-SAT', \
+'' using 1:4:5 with yerrorlines lt rgb 'green' title 'Approx-1', \
+'' using 1:6:7 with yerrorlines lt rgb 'red' title 'Approx-2'

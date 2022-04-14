@@ -1,0 +1,29 @@
+
+/* ************************************************ */
+        Build, Automated-testing, Run
+/* ************************************************ */
+cd <path>/project
+git clone https://github.com/agurfinkel/minisat
+mkdir build
+cd build
+cmake ../
+make
+./tests_ece650-a2
+./tests_ece650-a4
+./tests_ece650-prj
+./ece650-prj
+/* ************************************************ */
+/* ************************************************ */
+
+
+
+/* ************************************************ */
+                Testing Sample Input
+/* ************************************************ */
+cd <path>/project/build
+bash
+./ece650-prj < ../other_files/test_data/Test1.txt > ../other_files/test_data/Test1.out 2> ../other_files/test_data/Test1.err
+./ece650-prj < ../other_files/test_data/Test2.txt > ../other_files/test_data/Test2.out 2> ../other_files/test_data/Test2.err
+./ece650-prj < ../other_files/test_data/test_1000.txt > ../other_files/test_data/test_1000.out 2> ../other_files/test_data/test_1000.err
+/* ************************************************ */
+/* ************************************************ */
