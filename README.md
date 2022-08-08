@@ -27,7 +27,7 @@ https://github.com/othneildrew/Best-README-Template -->
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#initial-encoding-vs-optimized-encoding">Initial Encoding v/s Optimized Encoding</a></li>
+    <li><a href="#initial-encoding-vs-optimized-encoding-for-cnf-sat-vc">Initial Encoding v/s Optimized Encoding (for CNF SAT VC)</a></li>
     <li><a href="#license-or-author">License or Author</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -98,7 +98,7 @@ https://github.com/othneildrew/Best-README-Template -->
 
 
 <!-- Initial Encoding v/s Optimized Encoding -->
-## Initial Encoding v/s Optimized Encoding (for CNF-SAT-VC)
+## Initial Encoding v/s Optimized Encoding (for CNF SAT VC)
   Detailed Report can be found in <b>'Report.pdf'</b> in the parent directory.
   * #### Initial (Basic) Encoding
     * ###### CNF-SAT-VC:
