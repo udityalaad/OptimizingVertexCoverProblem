@@ -188,6 +188,7 @@ https://github.com/othneildrew/Best-README-Template -->
   * Owner, Prof. Arie Gurfinkel., University of Waterloo: graphGen
   * [GNU Plot Home Page](http://gnuplot.sourceforge.net.)
   * [Minisat Home Page](http://minisat.se/.)
+  * [github.com/othneildrew/Best-README-Template/](https://github.com/othneildrew/Best-README-Template)
   * [Vertex Cover, Wikipedia](https://en.wikipedia.org/wiki/Vertex_cover)
   
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
