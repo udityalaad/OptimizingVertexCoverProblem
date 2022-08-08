@@ -102,7 +102,7 @@ https://github.com/othneildrew/Best-README-Template -->
   Detailed Report can be found in <b>'Report.pdf'</b> in the parent directory.
   * #### Initial (Basic) Encoding
     * ###### CNF-SAT-VC:
-      The algorithm can be found on the last page of <b>'Reference/Acknowledgment-3.'</b>
+      The algorithm can be found on the last page of <b>'Reference/Acknowledgment-2.'</b>
     * ###### Approx-VC-1:
       1. Set: v_high = Vertex with highest degree (most incident edges).
       2. Add 'v_high' to VertexCover[]
@@ -139,7 +139,7 @@ https://github.com/othneildrew/Best-README-Template -->
 
     <br>
 
-    <p align="center"> <img src="Read_Me_Content/Comparison/n_vs_t_original.jpg" alt="Graph"  width="450"> <img src="Read_Me_Content/Comparison/n_vs_ar_original.jpg" alt="Graph"  width="450"> </p>
+    <p align="center"> <img src="Read_Me_Content/Comparison/n_vs_t_optimized.jpg" alt="Graph"  width="450"> <img src="Read_Me_Content/Comparison/n_vs_ar_optimized.jpg" alt="Graph"  width="450"> </p>
 
     <br>
 
@@ -160,8 +160,8 @@ https://github.com/othneildrew/Best-README-Template -->
 
 <!-- LICENSE -->
 ## License or Author
-  * <b>Authored by:</b> &nbsp; Uditya Laad, Swapnil Baluja - University of Waterloo
-  * <b>WLang Structure</b> - &nbsp; Provided by Prof. Arie Gurfinkel, University of Waterloo, Waterloo, ON, CA
+  * <b>Authored By</b> - Uditya Laad, Swapnil Baluja - University of Waterloo
+  * <b>Initial Encoding</b> - &nbsp; Provided by Prof. Arie Gurfinkel, University of Waterloo, Waterloo, ON, CA
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,7 +174,7 @@ https://github.com/othneildrew/Best-README-Template -->
   
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; udityalaad123@gmail.com
 
-  <b>Project Link</b> &nbsp; [https://github.com/udityalaad/Explore_SymEx](https://github.com/udityalaad/Explore_SymEx)
+  <b>Project Link</b> &nbsp; [https://github.com/udityalaad/OptimizingVertexCoverProblem](https://github.com/udityalaad/OptimizingVertexCoverProblem)
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,7 +182,6 @@ https://github.com/othneildrew/Best-README-Template -->
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-  * ECE 653 - Assignment 2, Prof. Arie Gurfinkel, Prof. Patrick Lam - University of Waterloo, Waterloo, ON, CA
   * Author, Prof. Arie Gurfinkel., University of Waterloo, Waterloo: ECE 650 Project - uw-ece650-1221-prj.pdf (2022)
   * Author, Prof. Arie Gurfinkel., University of Waterloo, Waterloo: ECE 650 Assignment 4 - uw-ece650-1221-a4.pdf (2022)
   * Owner, Prof. Arie Gurfinkel., University of Waterloo: graphGen
