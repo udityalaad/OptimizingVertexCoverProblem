@@ -71,7 +71,6 @@ https://github.com/othneildrew/Best-README-Template -->
   * <b>'ece650-prj.cpp'</b> is the main file or the starting point for the project.
 
   * ###### Build Commands
-        cd /project
         git clone https://github.com/agurfinkel/minisat
         mkdir build
         cd build
