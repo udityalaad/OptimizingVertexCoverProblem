@@ -86,7 +86,7 @@ https://github.com/othneildrew/Best-README-Template -->
         ./ece650-prj
 
   #### Testing Sample Input
-    cd /project/build
+    cd /build
 
     bash
 
