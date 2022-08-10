@@ -41,7 +41,7 @@ https://github.com/othneildrew/Best-README-Template -->
 ## About The Project
   In this project we've created an optimized encoding for solving the vertex cover problem using SAT solver and compared the results of different methods.
   * Implemented and analysed 2 polynomial-time & 1 NP-complete algorithm for solving the minimum vertex-cover problem.
-  * Optimized the existing encoding of CNF-SAT solver (NP-complete) to provide most optimal result at > 50 % faster rate (for the initial cases).
+  * Optimized the existing encoding of CNF-SAT solver (NP-complete) to provide most optimal result at > 50 % faster rate (for the initial cases). 
 
   
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
