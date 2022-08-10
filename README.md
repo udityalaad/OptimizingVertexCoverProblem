@@ -84,6 +84,8 @@ https://github.com/othneildrew/Best-README-Template -->
 
   * ###### Run
         ./ece650-prj
+        V 5
+        E {<3,2>,<5,2>,<4,5>,<5,1>,<2,4>,<1,3>,<4,1>}
 
   #### Testing Sample Input
     cd /build
